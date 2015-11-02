@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @Controller
-@RequestMapping("dishTypes")
+@RequestMapping("api/dishTypes")
 public class DishTypeService {
 
     @Autowired

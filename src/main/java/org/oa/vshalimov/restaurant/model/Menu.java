@@ -1,6 +1,7 @@
 package org.oa.vshalimov.restaurant.model;
 
 import javax.persistence.*;
+import java.io.Serializable;
 import java.math.BigDecimal;
 
 @Entity

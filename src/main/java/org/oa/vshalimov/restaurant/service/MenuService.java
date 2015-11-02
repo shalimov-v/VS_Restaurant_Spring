@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @Controller
-@RequestMapping("menus")
+@RequestMapping("api/menus")
 public class MenuService {
 
     @Autowired
